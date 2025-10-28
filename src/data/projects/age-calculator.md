@@ -37,6 +37,17 @@ You are required to develop an age calculator with the following features:
 - Implement basic validation to ensure the birthdate is valid
 - Use simple styling to make the calculator visually appealing and responsive
 
+## Learning Outcomes
+
+This project will help you:
+
+- Learn how to work with dates and times in JavaScript using Luxon.
+- Handle user input via a custom datepicker.
+- Perform date calculations (e.g., calculating the difference between two dates).
+- Create a user-friendly interface with basic form validation.
+- Enhance your CSS skills by designing a responsive layout.
+- By the end of this project, you'll have a working app that showcases your skills in handling external libraries, DOM manipulation, and responsive design.
+
 <hr />
 
 This project will help you understand how to manipulate dates and times in JavaScript using [Luxon](https://www.npmjs.com/package/luxon). You'll gain experience handling user input via a datepicker, performing date calculations, and designing a simple user interface.
